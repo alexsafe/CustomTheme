@@ -5,10 +5,10 @@
         versionCode = "10"
         version     = "1.1.0">
  
-    <name>DOjo Phonegap</name>
+    <name>App Custom</name>
  
     <description>
-        A simple dojo app
+        Statistics
     </description>
  
     <author href="http://localhost" email="a_capitaneanu@hotmail.com">
